@@ -1,2 +1,13 @@
-# -
-A personal technical blog powered by GitHub Pages and Jekyll, dedicated to sharing programming tutorials, applied chemistry insights, and software modification projects.
+# مدونة تقنية شخصية 🚀
+
+مرحباً بك! هذا المستودع مخصص لمشاركة المعرفة في مجالات التقنية والعلوم.
+
+### 🧪 المجالات العلمية
+* **الكيمياء التطبيقية:** رؤى ودروس في التحليل الكيميائي والمختبرات.
+
+### 📱 المجالات التقنية
+* **البرمجة:** دروس وشروحات برمجية متنوعة.
+* **تعديل البرامج:** توثيق لمشاريع تعديل ملفات APK وتطوير الأدوات.
+
+---
+*تم الإنشاء ودعمه بواسطة GitHub Pages و Jekyll.*
